@@ -5,5 +5,6 @@ public class Test {
         System.out.println("Git-idea2 master");
         System.out.println("Git-idea2 test");
         System.out.println("pushTest");
+        System.out.println("pullTest");
     }
 }
